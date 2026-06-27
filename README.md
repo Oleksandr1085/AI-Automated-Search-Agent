@@ -19,5 +19,6 @@ The primary objective was to build an intelligent agent capable of performing ta
 - **Google Cloud Platform:** API and Service Management
 - **Google Custom Search API:** Data Retrieval
 - **Markdown/JSON:** Data Formatting and Configuration
+
 ## Workflow Visualization
 ![Workflow Schema](workflow_schema.png)
