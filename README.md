@@ -19,6 +19,5 @@ The primary objective was to build an intelligent agent capable of performing ta
 - **Google Cloud Platform:** API and Service Management
 - **Google Custom Search API:** Data Retrieval
 - **Markdown/JSON:** Data Formatting and Configuration
-
-## Conclusion
-This project highlights technical proficiency in managing API integrations, troubleshooting cloud-based permissions, and building scalable automation pipelines. It demonstrates a deep understanding of the interplay between cloud services and modern automation tools.
+## Workflow Visualization
+![Workflow Schema](workflow_schema.png)
